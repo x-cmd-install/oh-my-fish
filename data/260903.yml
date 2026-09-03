@@ -1,17 +1,19 @@
 about:
-  description: The Fish Shell Framework
+  description:
+  |
+    The Fish Shell Framework
   license: MIT
   homepage: 
   head: 0f7926a
   archived: false
   latestVersion: v8
-  collectedAt: 2026-09-03T05:13:48Z
+  collectedAt: 2026-09-03T22:35:16Z
 timeline:
   created: 2015-09-03
   lastCommit: 2026-08-30
   lastRelease: 2026-04-07
 popularity:
-  star: 11383
+  star: 11386
   watcher: 124
   fork: 806
   release: 7
@@ -21,7 +23,7 @@ popularity:
 language:
   Shell: 93863
   Dockerfile: 125
-totalLine: 93988
+totalBytes: 93988
 recent:
   last30d:
     since: 2026-08-04
