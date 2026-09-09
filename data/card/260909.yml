@@ -7,7 +7,7 @@ about:
   latestVersion: "v8"
   latestRelease: "v8"
   latestPrerelease: ""
-  collectedAt: 2026-09-09T05:51:09Z
+  collectedAt: 2026-09-09T20:04:11Z
 timeline:
   created: 2015-09-03
   lastCommit: 2026-08-30
@@ -84,7 +84,7 @@ total:
   commit: 1815
 ---
 path: /home/runner/.x-repo/github.com/oh-my-fish/oh-my-fish
-collectedAt: 2026-09-09T05:51:10Z
+collectedAt: 2026-09-09T20:04:15Z
 loc:
   Fish:
     code: 2512
