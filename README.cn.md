@@ -46,7 +46,7 @@ x install oh-my-fish
 
 ## 流行度
 
-- **Star**: 11,389 · **Fork**: 806 · **开放 issue**: 524 · **贡献者**: 200
+- **Star**: 11,390 · **Fork**: 806 · **开放 issue**: 524 · **贡献者**: 200
 
 ## 累计统计
 
@@ -80,4 +80,4 @@ oh-my-fish 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/instal
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260911.yml` · 2026-09-11T05:48:05Z._
+_数据快照: `data/card/260911.yml` · 2026-09-11T19:11:02Z._
