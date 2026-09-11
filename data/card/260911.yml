@@ -7,7 +7,7 @@ about:
   latestVersion: "v8"
   latestRelease: "v8"
   latestPrerelease: ""
-  collectedAt: 2026-09-11T05:47:58Z
+  collectedAt: 2026-09-11T19:10:55Z
 timeline:
   created: 2015-09-03
   lastCommit: 2026-09-09
@@ -15,7 +15,7 @@ timeline:
   lastRelease: 2026-04-07
   lastPrerelease: 
 popularity:
-  star: 11389
+  star: 11390
   watcher: 125
   fork: 806
   release: 7
@@ -84,7 +84,7 @@ total:
   commit: 1816
 ---
 path: /home/runner/.x-repo/github.com/oh-my-fish/oh-my-fish
-collectedAt: 2026-09-11T05:47:59Z
+collectedAt: 2026-09-11T19:10:56Z
 loc:
   Fish:
     code: 2679
