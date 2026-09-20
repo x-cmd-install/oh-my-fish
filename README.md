@@ -4,7 +4,7 @@
 
 The Fish Shell Framework
 
-![oh-my-fish](https://repo.x-cmd.io/oh-my-fish.svg)
+[![x-cmd/install — oh-my-fish Code Quality Monitoring Repo Card](https://repo.x-cmd.io/oh-my-fish.svg)](https://x-cmd.com/install/oh-my-fish)
 
 ## Install
 
@@ -46,7 +46,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 11,390 · **Forks**: 805 · **Open issues**: 524 · **Contributors**: 200
+- **Stars**: 11,392 · **Forks**: 805 · **Open issues**: 524 · **Contributors**: 200
 
 ## Totals (cumulative)
 
@@ -56,12 +56,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-19 | 0 | 2 | 4 | 0 | 0 | 3 |
-| last60d | 2026-07-20 | 0 | 2 | 4 | 0 | 0 | 3 |
-| 90d | 2026-06-20 | 0 | 2 | 4 | 0 | 0 | 3 |
-| last180d | 2026-03-22 | 1 | 4 | 4 | 0 | 0 | 12 |
-| 360d | 2025-09-23 | 1 | 4 | 4 | 2 | 0 | 12 |
-| last720d | 2024-09-28 | 1 | 10 | 4 | 5 | 0 | 18 |
+| 30d | 2026-08-21 | 0 | 2 | 4 | 0 | 0 | 3 |
+| last60d | 2026-07-22 | 0 | 2 | 4 | 0 | 0 | 3 |
+| 90d | 2026-06-22 | 0 | 2 | 4 | 0 | 0 | 3 |
+| last180d | 2026-03-24 | 1 | 4 | 4 | 0 | 0 | 12 |
+| 360d | 2025-09-25 | 1 | 4 | 4 | 2 | 0 | 12 |
+| last720d | 2024-09-30 | 1 | 10 | 4 | 5 | 0 | 18 |
 
 ## Improve this data
 
@@ -72,4 +72,4 @@ Install metadata for oh-my-fish lives in the [x-cmd/install](https://github.com/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260918.yml` · 2026-09-18T06:08:55Z._
+_Snapshot: `data/card/260920.yml` · 2026-09-20T06:18:07Z._
