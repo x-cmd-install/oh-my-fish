@@ -31,8 +31,8 @@ Overall score: **4.7 / 10**
 Lowest-scoring checks:
 
 - **Packaging** (-1/10) — packaging workflow not detected
-- **Maintained** (2/10) — 3 commit(s) and 0 issue activity found in the last 90 days -- score normalized to 2
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
+- **Maintained** (2/10) — 3 commit(s) and 0 issue activity found in the last 90 days -- score normalized to 2
 
 ## Source
 
@@ -46,22 +46,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 11,392 · **Forks**: 805 · **Open issues**: 524 · **Contributors**: 200
+- **Stars**: 11,393 · **Forks**: 805 · **Open issues**: 524 · **Contributors**: 200
 
 ## Totals (cumulative)
 
-- **Releases**: 7 · **Merged PRs**: 354 · **Open PRs**: 4 · **Closed issues**: 524 · **Open issues**: 0 · **Commits**: 1816
+- **Releases**: 7 · **Merged PRs**: 354 · **Open PRs**: 5 · **Closed issues**: 524 · **Open issues**: 0 · **Commits**: 1816
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-29 | 0 | 1 | 0 | 0 | 0 | 1 |
-| last60d | 2026-07-30 | 0 | 2 | 4 | 0 | 0 | 3 |
-| 90d | 2026-06-30 | 0 | 2 | 4 | 0 | 0 | 3 |
-| last180d | 2026-04-01 | 1 | 4 | 4 | 0 | 0 | 11 |
-| 360d | 2025-10-03 | 1 | 4 | 4 | 2 | 0 | 12 |
-| last720d | 2024-10-08 | 1 | 10 | 4 | 5 | 0 | 18 |
+| 30d | 2026-08-30 | 0 | 0 | 1 | 0 | 0 | 1 |
+| last60d | 2026-07-31 | 0 | 2 | 5 | 0 | 0 | 3 |
+| 90d | 2026-07-01 | 0 | 2 | 5 | 0 | 0 | 3 |
+| last180d | 2026-04-02 | 1 | 4 | 5 | 0 | 0 | 11 |
+| 360d | 2025-10-04 | 1 | 4 | 5 | 2 | 0 | 12 |
+| last720d | 2024-10-09 | 1 | 10 | 5 | 5 | 0 | 18 |
 
 ## Improve this data
 
@@ -72,4 +72,4 @@ Install metadata for oh-my-fish lives in the [x-cmd/install](https://github.com/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260928.yml` · 2026-09-28T06:20:00Z._
+_Snapshot: `data/card/260929.yml` · 2026-09-29T06:43:25Z._
