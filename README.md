@@ -14,11 +14,11 @@ x install oh-my-fish
 
 ## Code insight
 
-Total: **2,879** lines of code across **137** files in the top 5 languages.
+Total: **2,900** lines of code across **138** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Fish | 2,679 | 276 | 515 | 90 |
+| Fish | 2,700 | 280 | 516 | 91 |
 | AsciiDoc | 196 | 0 | 73 | 17 |
 | Dockerfile | 3 | 0 | 2 | 1 |
 | Svg | 1 | 0 | 0 | 1 |
@@ -42,26 +42,26 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v8` (2026-04-07)
-- **Last commit**: 2026-09-09
+- **Last commit**: 2026-09-30
 
 ## Popularity
 
-- **Stars**: 11,393 · **Forks**: 805 · **Open issues**: 524 · **Contributors**: 200
+- **Stars**: 11,391 · **Forks**: 805 · **Open issues**: 524 · **Contributors**: 200
 
 ## Totals (cumulative)
 
-- **Releases**: 7 · **Merged PRs**: 354 · **Open PRs**: 5 · **Closed issues**: 524 · **Open issues**: 0 · **Commits**: 1816
+- **Releases**: 7 · **Merged PRs**: 355 · **Open PRs**: 4 · **Closed issues**: 524 · **Open issues**: 0 · **Commits**: 1817
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-30 | 0 | 0 | 1 | 0 | 0 | 1 |
-| last60d | 2026-07-31 | 0 | 2 | 5 | 0 | 0 | 3 |
-| 90d | 2026-07-01 | 0 | 2 | 5 | 0 | 0 | 3 |
-| last180d | 2026-04-02 | 1 | 4 | 5 | 0 | 0 | 11 |
-| 360d | 2025-10-04 | 1 | 4 | 5 | 2 | 0 | 12 |
-| last720d | 2024-10-09 | 1 | 10 | 5 | 5 | 0 | 18 |
+| 30d | 2026-08-31 | 0 | 1 | 0 | 0 | 0 | 2 |
+| last60d | 2026-08-01 | 0 | 3 | 4 | 0 | 0 | 4 |
+| 90d | 2026-07-02 | 0 | 3 | 4 | 0 | 0 | 4 |
+| last180d | 2026-04-03 | 1 | 5 | 4 | 0 | 0 | 12 |
+| 360d | 2025-10-05 | 1 | 5 | 4 | 2 | 0 | 13 |
+| last720d | 2024-10-10 | 1 | 11 | 4 | 5 | 0 | 19 |
 
 ## Improve this data
 
@@ -72,4 +72,4 @@ Install metadata for oh-my-fish lives in the [x-cmd/install](https://github.com/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260929.yml` · 2026-09-29T06:43:25Z._
+_Snapshot: `data/card/260930.yml` · 2026-09-30T06:34:54Z._
