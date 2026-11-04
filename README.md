@@ -46,22 +46,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 11,412 · **Forks**: 804 · **Open issues**: 524 · **Contributors**: 200
+- **Stars**: 11,413 · **Forks**: 802 · **Open issues**: 525 · **Contributors**: 200
 
 ## Totals (cumulative)
 
-- **Releases**: 7 · **Merged PRs**: 355 · **Open PRs**: 7 · **Closed issues**: 524 · **Open issues**: 0 · **Commits**: 1817
+- **Releases**: 7 · **Merged PRs**: 355 · **Open PRs**: 7 · **Closed issues**: 525 · **Open issues**: 0 · **Commits**: 1817
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-04 | 0 | 0 | 2 | 0 | 0 | 0 |
-| last60d | 2026-09-04 | 0 | 1 | 3 | 0 | 0 | 2 |
-| 90d | 2026-08-05 | 0 | 3 | 7 | 0 | 0 | 4 |
-| last180d | 2026-05-07 | 0 | 4 | 7 | 0 | 0 | 12 |
-| 360d | 2025-11-08 | 1 | 5 | 7 | 2 | 0 | 13 |
-| last720d | 2024-11-13 | 1 | 11 | 7 | 5 | 0 | 19 |
+| 30d | 2026-10-05 | 0 | 0 | 2 | 1 | 0 | 0 |
+| last60d | 2026-09-05 | 0 | 1 | 3 | 1 | 0 | 2 |
+| 90d | 2026-08-06 | 0 | 3 | 7 | 1 | 0 | 4 |
+| last180d | 2026-05-08 | 0 | 4 | 7 | 1 | 0 | 12 |
+| 360d | 2025-11-09 | 1 | 5 | 7 | 3 | 0 | 13 |
+| last720d | 2024-11-14 | 1 | 11 | 7 | 6 | 0 | 19 |
 
 ## Distribution status
 
@@ -80,4 +80,4 @@ Install metadata for oh-my-fish lives in the [x-cmd/install](https://github.com/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261103.yml` · 2026-11-03T07:53:26Z._
+_Snapshot: `data/card/261104.yml` · 2026-11-04T07:23:29Z._
