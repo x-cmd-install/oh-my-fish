@@ -56,20 +56,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-27 | 0 | 0 | 1 | 1 | 1 | 0 |
-| last60d | 2026-09-27 | 0 | 1 | 4 | 1 | 1 | 1 |
-| 90d | 2026-08-28 | 0 | 2 | 4 | 1 | 1 | 2 |
-| last180d | 2026-05-30 | 0 | 3 | 8 | 1 | 1 | 11 |
-| 360d | 2025-12-01 | 1 | 5 | 8 | 3 | 1 | 13 |
-| last720d | 2024-12-06 | 1 | 11 | 8 | 6 | 1 | 19 |
-
-## Distribution status
-
-Reported by **7** distros on [repology.org](https://repology.org/project/oh-my-fish). **1** are ✅ on the latest upstream release, **1** are ⚠️ on an older version.
-
-| Distro | Version | Status |
-|--------|---------|--------|
-| Nix unstable | `8` | ✅ latest |
+| 30d | 2026-10-28 | 0 | 0 | 1 | 1 | 1 | 0 |
+| last60d | 2026-09-28 | 0 | 0 | 4 | 1 | 1 | 1 |
+| 90d | 2026-08-29 | 0 | 2 | 4 | 1 | 1 | 2 |
+| last180d | 2026-05-31 | 0 | 3 | 8 | 1 | 1 | 11 |
+| 360d | 2025-12-02 | 1 | 5 | 8 | 3 | 1 | 13 |
+| last720d | 2024-12-07 | 1 | 11 | 8 | 6 | 1 | 19 |
 
 ## Improve this data
 
@@ -80,4 +72,4 @@ Install metadata for oh-my-fish lives in the [x-cmd/install](https://github.com/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261126.yml` · 2026-11-26T09:28:25Z._
+_Snapshot: `data/card/261127.yml` · 2026-11-27T10:39:39Z._
