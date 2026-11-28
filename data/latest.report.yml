@@ -7,7 +7,7 @@ about:
   latestVersion: "v8"
   latestRelease: "v8"
   latestPrerelease: ""
-  collectedAt: 2026-11-27T10:39:18Z
+  collectedAt: 2026-11-28T08:40:47Z
 timeline:
   created: 2015-09-03
   lastCommit: 2026-09-30
@@ -15,7 +15,7 @@ timeline:
   lastRelease: 2026-04-07
   lastPrerelease: 
 popularity:
-  star: 11422
+  star: 11426
   watcher: 123
   fork: 801
   release: 7
@@ -28,7 +28,7 @@ language:
 totalBytes: 103606
 recent:
   last30d:
-    since: 2026-10-28
+    since: 2026-10-29
     release: 0
     mergedPR: 0
     openPR: 1
@@ -36,7 +36,7 @@ recent:
     openIssue: 1
     commit: 0
   last60d:
-    since: 2026-09-28
+    since: 2026-09-29
     release: 0
     mergedPR: 0
     openPR: 4
@@ -44,15 +44,15 @@ recent:
     openIssue: 1
     commit: 1
   last90d:
-    since: 2026-08-29
+    since: 2026-08-30
     release: 0
-    mergedPR: 2
+    mergedPR: 1
     openPR: 4
     closedIssue: 1
     openIssue: 1
     commit: 2
   last180d:
-    since: 2026-05-31
+    since: 2026-06-01
     release: 0
     mergedPR: 3
     openPR: 8
@@ -60,7 +60,7 @@ recent:
     openIssue: 1
     commit: 11
   last360d:
-    since: 2025-12-02
+    since: 2025-12-03
     release: 1
     mergedPR: 5
     openPR: 8
@@ -68,7 +68,7 @@ recent:
     openIssue: 1
     commit: 13
   last720d:
-    since: 2024-12-07
+    since: 2024-12-08
     release: 1
     mergedPR: 11
     openPR: 8
@@ -84,7 +84,7 @@ total:
   commit: 1817
 ---
 path: /home/runner/.x-repo/github.com/oh-my-fish/oh-my-fish
-collectedAt: 2026-11-27T10:39:19Z
+collectedAt: 2026-11-28T08:40:48Z
 loc:
   Fish:
     code: 2700
